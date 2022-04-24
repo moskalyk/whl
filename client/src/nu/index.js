@@ -152,7 +152,9 @@ document.addEventListener("DOMContentLoaded", () => {
   const container = document.createElement('div')
   document.body.appendChild(container)
   container.style.display = 'flex'
+  container.setAttribute("id", "clock")
   container.style.width = '100%'
+  container.style.top = '201px'
   container.style.margin = '0 auto'
   container.style.height = '100%'
   container.style.position = 'absolute'
