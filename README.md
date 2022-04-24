@@ -9,4 +9,4 @@ unravel the wheel of fortune. really curious what are the uncensorable character
 
 ''
 
-Q: what is wetbrain? An emobodied space for crafts to write story telling, as someone that orients there clock times, in key spiritualy networked time patterns scribed by Oracles like those that study with kairos & chronus.
+Q: what is wetbrain? An emobodied space for crafts to write story telling, as someone that orients their clock times, in key spiritualy networked time patterns scribed by Oracles like those that study with kairos & chronos.
